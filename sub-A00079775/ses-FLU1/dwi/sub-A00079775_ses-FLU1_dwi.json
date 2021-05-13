@@ -1,1 +1,35 @@
-../../../.git/annex/objects/fV/5q/MD5E-s924--bd78e8050e8f440e3b24457ee5456a25.json/MD5E-s924--bd78e8050e8f440e3b24457ee5456a25.json
+{
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20170411 GCC4.3.2",
+    "EchoTime": 0.087,
+    "EffectiveEchoSpacing": 0.000690003,
+    "FlipAngle": 90,
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "DIFFUSION",
+        "NONE",
+        "MB",
+        "ND",
+        "MOSAIC"
+    ],
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "TrioTim",
+    "PhaseEncodingDirection": "j-",
+    "ProcedureStepDescription": "RESEARCH_colcombe",
+    "ProtocolName": "DIFF_137_AP",
+    "RepetitionTime": 2.4,
+    "ScanningSequence": "EP",
+    "SequenceName": "ep_b0",
+    "SequenceVariant": "SK_MTC_SS",
+    "SeriesDescription": "DIFF_137_AP",
+    "Obliquity": "False",
+    "VoxelSizeDim1": 2.0,
+    "VoxelSizeDim3": 1.9999998807907104,
+    "VoxelSizeDim2": 2.0,
+    "Dim1Size": 106,
+    "Dim2Size": 90,
+    "Dim3Size": 64,
+    "NumVolumes": 137
+}

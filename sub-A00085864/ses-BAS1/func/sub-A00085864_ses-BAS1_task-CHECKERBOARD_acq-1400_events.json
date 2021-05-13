@@ -1,0 +1,12 @@
+{
+    "trial_type": {
+        "LongName": "Checkerboard Task",
+        "Description": "A 12 Hz Checkerboard is flashed on the screen in a block design",
+        "Levels": { 
+            "FIXATION": "A fixation cross is shown",
+            "CHECKER": "A 12 Hz Checkerboard is flashed on the screen"
+        }
+
+
+    }
+}

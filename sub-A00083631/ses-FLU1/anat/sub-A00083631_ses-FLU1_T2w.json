@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "TrioTim",
+    "ProcedureStepDescription": "RESEARCH_colcombe",
+    "ScanningSequence": "SE",
+    "SequenceVariant": "SK_SP_OSP",
+    "SeriesDescription": "HCP_SPACE",
+    "ProtocolName": "HCP_SPACE",
+    "SequenceName": "spc3d1_314ns",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "ND"
+    ],
+    "MagneticFieldStrength": 3,
+    "FlipAngle": 120,
+    "EchoTime": 0.306,
+    "RepetitionTime": 3.2,
+    "PhaseEncodingDirection": "i-",
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20170411 GCC4.3.2",
+    "Obliquity": "False",
+    "VoxelSizeDim1": 0.9999973177909851,
+    "VoxelSizeDim2": 1.0,
+    "VoxelSizeDim3": 1.0,
+    "Dim1Size": 176,
+    "Dim2Size": 256,
+    "NumVolumes": 1.0,
+    "Dim3Size": 256
+}

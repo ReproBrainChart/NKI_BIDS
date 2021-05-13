@@ -1,0 +1,19 @@
+{
+	"trial_type": {
+		"LongName": "Breath Holding Task",
+		"Description": "Instructions that participants in the breath holding task follow, H1-H6 are circles of decreasing size, indicating how much longer breath needs to be held",
+		"Levels": {
+			"R": "Rest",
+			"G": "Get Ready",
+			"In": "Breathe In",
+			"Out": "Breathe Out",
+			"Deep": "Deep Breath and Hold",
+			"H1": "Circle size 1 - Largest Circle",
+			"H2": "Circle size 2",
+			"H3": "Circle size 3",
+			"H4": "Circle size 4",
+			"H5": "Circle size 5",
+			"H6": "Circle size 6 - Smallest Circle"
+		}
+	}
+}

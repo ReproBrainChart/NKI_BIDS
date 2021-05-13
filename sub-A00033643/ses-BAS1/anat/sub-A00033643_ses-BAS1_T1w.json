@@ -1,1 +1,33 @@
-../../../.git/annex/objects/7Q/VP/MD5E-s861--ba80285518c4901920688a80c92835bc.json/MD5E-s861--ba80285518c4901920688a80c92835bc.json
+{
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20170411 GCC4.3.2",
+    "EchoTime": 0.00252,
+    "FlipAngle": 9,
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "ND",
+        "NORM"
+    ],
+    "InversionTime": 0.9,
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "TrioTim",
+    "PhaseEncodingDirection": "i-",
+    "ProcedureStepDescription": "RESEARCH_nierenberg",
+    "ProtocolName": "MPRAGE_SIEMENS",
+    "RepetitionTime": 1.9,
+    "ScanningSequence": "GR_IR",
+    "SequenceName": "tfl3d1_ns",
+    "SequenceVariant": "SP_MP_OSP",
+    "SeriesDescription": "MPRAGE_SIEMENS",
+    "Obliquity": "False",
+    "VoxelSizeDim1": 1.0,
+    "VoxelSizeDim3": 0.9765625,
+    "VoxelSizeDim2": 0.9765625,
+    "Dim1Size": 176,
+    "Dim2Size": 256,
+    "Dim3Size": 256,
+    "NumVolumes": 1.0
+}
