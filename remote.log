@@ -1,1 +1,2 @@
+74105c64-b46b-48db-bd12-b3182d8bb3e3 archive-id=9bf73b44-7bb4-4abd-b4af-578bf208ee3e autoenable=true encryption=none externaltype=ora name=sciget-storage type=external url=ria+ssh://sciget.pmacs.upenn.edu:/project/RBC/RIA/NKI timestamp=1632968971.139092s
 a76a275e-0bed-47de-a78a-5b3d98c32b3f archive-id=9bf73b44-7bb4-4abd-b4af-578bf208ee3e autoenable=true encryption=none externaltype=ora name=PMACS-storage type=external url=ria+ssh://sciget.pmacs.upenn.edu:/project/RBC/RIA/BIDS timestamp=1625163482.271191s
