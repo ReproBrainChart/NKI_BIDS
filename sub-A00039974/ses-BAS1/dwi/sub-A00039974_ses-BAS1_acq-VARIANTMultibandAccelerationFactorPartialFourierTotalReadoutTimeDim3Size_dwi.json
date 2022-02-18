@@ -30,5 +30,6 @@
     "Dim1Size": 106,
     "Dim2Size": 90,
     "Dim3Size": 56,
-    "NumVolumes": 137
+    "NumVolumes": 137,
+    "TotalReadoutTime": 0.061
 }
