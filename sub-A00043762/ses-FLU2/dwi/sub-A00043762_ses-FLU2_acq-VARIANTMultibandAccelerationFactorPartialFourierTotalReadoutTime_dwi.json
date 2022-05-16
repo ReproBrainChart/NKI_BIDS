@@ -32,5 +32,6 @@
     "Dim2Size": 90,
     "NumVolumes": 137,
     "Dim3Size": 64,
-    "TotalReadoutTime": 0.061
+    "TotalReadoutTime": 0.061,
+    "ImageOrientation": "LAS+"
 }

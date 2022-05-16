@@ -148,5 +148,6 @@
     "Dim1Size": 112,
     "Dim2Size": 112,
     "Dim3Size": 64,
-    "NumVolumes": 357
+    "NumVolumes": 357,
+    "ImageOrientation": "LAS+"
 }
