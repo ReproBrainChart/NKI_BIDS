@@ -84,7 +84,7 @@ sub-A00029304_ses-BAS1	NKI	ses-BAS1	-63			1	1	1	1	Pass
 sub-A00029979_ses-BAS1	NKI	ses-BAS1	-67	1	1				1	Pass
 sub-A00030912_ses-BAS1	NKI	ses-BAS1	-47	0.75	1	1	1	1	0.95	Artifact
 sub-A00030913_ses-BAS1	NKI	ses-BAS1	-68			1	1	1	1	Pass
-sub-A00030947_ses-BAS1	NKI	ses-BAS1		1	0.75	1			0.916666667	Artifact
+sub-A00030947_ses-BAS1	NKI	ses-BAS1	-66	1	0.75	1			0.916666667	Artifact
 sub-A00030947_ses-BAS2	NKI	ses-BAS2	-127	0.25	0.25				0.25	Artifact
 sub-A00030980_ses-BAS1	NKI	ses-BAS1	-57			1	1	1	1	Pass
 sub-A00030981_ses-BAS1	NKI	ses-BAS1	-45		1	1		1	1	Pass
@@ -127,7 +127,7 @@ sub-A00032817_ses-BAS1	NKI	ses-BAS1	-235	0	0.25				0.125	Artifact
 sub-A00032862_ses-BAS1	NKI	ses-BAS1	-31		1	1		1	1	Pass
 sub-A00032875_ses-BAS1	NKI	ses-BAS1	-43		1	1		1	1	Pass
 sub-A00032875_ses-BAS2	NKI	ses-BAS2	-58	1			1		1	Pass
-sub-A00032875_ses-BAS3	NKI	ses-BAS3		1	0.875	1	1	1	0.975	Artifact
+sub-A00032875_ses-BAS3	NKI	ses-BAS3	-54	1	0.875	1	1	1	0.975	Artifact
 sub-A00032875_ses-FLU1	NKI	ses-FLU1	-83	1	0.75				0.875	Artifact
 sub-A00032876_ses-BAS1	NKI	ses-BAS1	-35	1			1		1	Pass
 sub-A00033011_ses-BAS1	NKI	ses-BAS1	-47	1	1				1	Pass
@@ -282,7 +282,7 @@ sub-A00037531_ses-BAS1	NKI	ses-BAS1	-44			1	1	0.75	0.916666667	Artifact
 sub-A00037545_ses-BAS1	NKI	ses-BAS1	-28			1	1	1	1	Pass
 sub-A00037582_ses-BAS1	NKI	ses-BAS1	-75	1	1				1	Pass
 sub-A00037588_ses-BAS1	NKI	ses-BAS1	-45		1	1		1	1	Pass
-sub-A00037589_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00037589_ses-BAS1	NKI	ses-BAS1	-58	1	1	1			1	Pass
 sub-A00037635_ses-BAS1	NKI	ses-BAS1	-63	1	1	1	1	1	1	Pass
 sub-A00037646_ses-BAS1	NKI	ses-BAS1	-32	1	1				1	Pass
 sub-A00037647_ses-BAS1	NKI	ses-BAS1	-55	1	1				1	Pass
@@ -317,7 +317,7 @@ sub-A00038520_ses-BAS1	NKI	ses-BAS1	-77		1	1		1	1	Pass
 sub-A00038522_ses-BAS1	NKI	ses-BAS1	-82	1	1	1	1	1	1	Pass
 sub-A00038603_ses-BAS1	NKI	ses-BAS1	-132	1			1		1	Pass
 sub-A00038605_ses-BAS1	NKI	ses-BAS1	-66		1	1		1	1	Pass
-sub-A00038616_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00038616_ses-BAS1	NKI	ses-BAS1	-43	1	1	1			1	Pass
 sub-A00038623_ses-BAS1	NKI	ses-BAS1	-81	1	1				1	Pass
 sub-A00038623_ses-BAS2	NKI	ses-BAS2	-95	1	1				1	Pass
 sub-A00038623_ses-FLU1	NKI	ses-FLU1	-73	1	1	1	1	1	1	Pass
@@ -340,7 +340,7 @@ sub-A00038959_ses-BAS1	NKI	ses-BAS1	-284	0	0.5				0.25	Artifact
 sub-A00038998_ses-BAS1	NKI	ses-BAS1	-71			1	1	0.75	0.916666667	Artifact
 sub-A00038998_ses-BAS2	NKI	ses-BAS2	-63	1			1		1	Pass
 sub-A00039040_ses-BAS1	NKI	ses-BAS1	-110	1			1		1	Pass
-sub-A00039041_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00039041_ses-BAS1	NKI	ses-BAS1	-50	1	1	1			1	Pass
 sub-A00039074_ses-BAS1	NKI	ses-BAS1	-54	1	1	1	1	1	1	Pass
 sub-A00039075_ses-BAS1	NKI	ses-BAS1	-37		1	1		1	1	Pass
 sub-A00039083_ses-BAS1	NKI	ses-BAS1	-94		1	1		1	1	Pass
@@ -366,7 +366,7 @@ sub-A00039393_ses-BAS1	NKI	ses-BAS1	-35	1	1	1	1	1	1	Pass
 sub-A00039431_ses-BAS1	NKI	ses-BAS1	-40	1	1	1	1	1	1	Pass
 sub-A00039432_ses-BAS1	NKI	ses-BAS1	-30		1	1		1	1	Pass
 sub-A00039461_ses-BAS1	NKI	ses-BAS1	-88	1	1	1	1	1	1	Pass
-sub-A00039463_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00039463_ses-BAS1	NKI	ses-BAS1	-41	1	1	1			1	Pass
 sub-A00039488_ses-BAS1	NKI	ses-BAS1	-47	1	1				1	Pass
 sub-A00039488_ses-BAS2	NKI	ses-BAS2	-33		1	1		1	1	Pass
 sub-A00039490_ses-BAS1	NKI	ses-BAS1	-124	1	1	1	1	1	1	Pass
@@ -446,7 +446,7 @@ sub-A00040193_ses-BAS1	NKI	ses-BAS1	-87	1	1	1	1	1	1	Pass
 sub-A00040225_ses-BAS1	NKI	ses-BAS1	-79		1	1		1	1	Pass
 sub-A00040225_ses-BAS2	NKI	ses-BAS2	-90	1	1				1	Pass
 sub-A00040226_ses-BAS1	NKI	ses-BAS1	-27		1	1		1	1	Pass
-sub-A00040248_ses-BAS1	NKI	ses-BAS1		1	0.75	1			0.916666667	Artifact
+sub-A00040248_ses-BAS1	NKI	ses-BAS1	-134	1	0.75	1			0.916666667	Artifact
 sub-A00040257_ses-BAS1	NKI	ses-BAS1	-55			1	1	1	1	Pass
 sub-A00040285_ses-BAS1	NKI	ses-BAS1	-42	1	1	1	1	1	1	Pass
 sub-A00040285_ses-BAS2	NKI	ses-BAS2	-61			1	1	1	1	Pass
@@ -462,8 +462,8 @@ sub-A00040311_ses-BAS2	NKI	ses-BAS2	-93	1	1	1	1	1	1	Pass
 sub-A00040311_ses-FLU1	NKI	ses-FLU1	-72	1	1				1	Pass
 sub-A00040312_ses-BAS1	NKI	ses-BAS1	-102			1	1	1	1	Pass
 sub-A00040312_ses-BAS2	NKI	ses-BAS2	-96	1			1		1	Pass
-sub-A00040324_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
-sub-A00040342_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00040324_ses-BAS1	NKI	ses-BAS1	-54	1	1	1			1	Pass
+sub-A00040342_ses-BAS1	NKI	ses-BAS1	-127	1	1	1			1	Pass
 sub-A00040343_ses-BAS1	NKI	ses-BAS1	-81		1	1		1	1	Pass
 sub-A00040351_ses-BAS1	NKI	ses-BAS1	-115		1	1		1	1	Pass
 sub-A00040382_ses-BAS1	NKI	ses-BAS1	-199			1	1	0.75	0.916666667	Artifact
@@ -473,7 +473,7 @@ sub-A00040439_ses-BAS1	NKI	ses-BAS1	-31			1	1	1	1	Pass
 sub-A00040440_ses-BAS1	NKI	ses-BAS1	-193	0.5			0.5		0.5	Artifact
 sub-A00040461_ses-BAS1	NKI	ses-BAS1	-37			1	1	1	1	Pass
 sub-A00040462_ses-BAS1	NKI	ses-BAS1	-41	1	1				1	Pass
-sub-A00040493_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00040493_ses-BAS1	NKI	ses-BAS1	-33	1	1	1			1	Pass
 sub-A00040494_ses-BAS1	NKI	ses-BAS1	-48	1	1	1	1	1	1	Pass
 sub-A00040500_ses-BAS1	NKI	ses-BAS1	-39			1	1	1	1	Pass
 sub-A00040517_ses-BAS1	NKI	ses-BAS1	-44	1			1		1	Pass
@@ -492,7 +492,7 @@ sub-A00040580_ses-FLU1	NKI	ses-FLU1	-65	1	1				1	Pass
 sub-A00040594_ses-BAS1	NKI	ses-BAS1	-57	1			1		1	Pass
 sub-A00040599_ses-BAS1	NKI	ses-BAS1	-65	1	1	1	1	1	1	Pass
 sub-A00040604_ses-BAS1	NKI	ses-BAS1	-14	1	1	1	1	1	1	Pass
-sub-A00040604_ses-BAS2	NKI	ses-BAS2		1	1	1			1	Pass
+sub-A00040604_ses-BAS2	NKI	ses-BAS2	-25	1	1	1			1	Pass
 sub-A00040604_ses-FLU1	NKI	ses-FLU1	-15			1	1	1	1	Pass
 sub-A00040604_ses-FLU2	NKI	ses-FLU2	-27			1	1	1	1	Pass
 sub-A00040623_ses-BAS1	NKI	ses-BAS1	-58	1	1				1	Pass
@@ -524,7 +524,7 @@ sub-A00040891_ses-BAS1	NKI	ses-BAS1	-28	1	1	1	0.75	0.75	0.9	Artifact
 sub-A00040915_ses-BAS1	NKI	ses-BAS1	-70	1	1				1	Pass
 sub-A00040944_ses-BAS1	NKI	ses-BAS1	-110		1	1		1	1	Pass
 sub-A00041049_ses-BAS1	NKI	ses-BAS1	-58	1			1		1	Pass
-sub-A00041503_ses-BAS1	NKI	ses-BAS1		0	0	0			0	Fail
+sub-A00041503_ses-BAS1	NKI	ses-BAS1	-485	0	0	0			0	Fail
 sub-A00041540_ses-BAS1	NKI	ses-BAS1	-38	1			1		1	Pass
 sub-A00043240_ses-BAS1	NKI	ses-BAS1	-60	1			1		1	Pass
 sub-A00043240_ses-TRT	NKI	ses-TRT	-62	1			1		1	Pass
@@ -553,7 +553,7 @@ sub-A00043677_ses-BAS1	NKI	ses-BAS1	-94	1	1	1	1	1	1	Pass
 sub-A00043704_ses-BAS1	NKI	ses-BAS1	-64		1	1		1	1	Pass
 sub-A00043721_ses-BAS1	NKI	ses-BAS1	-111			1	1	1	1	Pass
 sub-A00043722_ses-BAS1	NKI	ses-BAS1	-64	1	1				1	Pass
-sub-A00043739_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00043739_ses-BAS1	NKI	ses-BAS1	-41	1	1	1			1	Pass
 sub-A00043740_ses-BAS1	NKI	ses-BAS1	-70		0.75	1		1	0.916666667	Artifact
 sub-A00043740_ses-FLU1	NKI	ses-FLU1	-59	1	1	1	1	1	1	Pass
 sub-A00043740_ses-TRT	NKI	ses-TRT	-88	1	0.75	1	0.75	1	0.9	Artifact
@@ -604,7 +604,7 @@ sub-A00050848_ses-FLU2	NKI	ses-FLU2	-81	1			1		1	Pass
 sub-A00050848_ses-TRT	NKI	ses-TRT	-110			1	1	1	1	Pass
 sub-A00050911_ses-BAS1	NKI	ses-BAS1	-101	1			1		1	Pass
 sub-A00050912_ses-BAS1	NKI	ses-BAS1	-46			1	1	1	1	Pass
-sub-A00050940_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00050940_ses-BAS1	NKI	ses-BAS1	-90	1	1	1			1	Pass
 sub-A00050977_ses-BAS1	NKI	ses-BAS1	-80		1	1		1	1	Pass
 sub-A00050998_ses-BAS1	NKI	ses-BAS1	-39	1			1		1	Pass
 sub-A00051023_ses-BAS1	NKI	ses-BAS1	-47	1	1	1	1	1	1	Pass
@@ -642,9 +642,9 @@ sub-A00051727_ses-TRT	NKI	ses-TRT	-29	1	1	1	0.75	1	0.95	Artifact
 sub-A00051758_ses-BAS1	NKI	ses-BAS1	-118	1	1	1	1	1	1	Pass
 sub-A00051774_ses-BAS1	NKI	ses-BAS1	-71		1	1		1	1	Pass
 sub-A00051796_ses-BAS1	NKI	ses-BAS1	-108		1	1		0.75	0.916666667	Artifact
-sub-A00051835_ses-BAS1	NKI	ses-BAS1		1	0.75	1			0.916666667	Artifact
-sub-A00051835_ses-BAS2	NKI	ses-BAS2		1	0.5	1			0.833333333	Artifact
-sub-A00051835_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00051835_ses-BAS1	NKI	ses-BAS1	-44	1	0.75	1			0.916666667	Artifact
+sub-A00051835_ses-BAS2	NKI	ses-BAS2	-80	1	0.5	1			0.833333333	Artifact
+sub-A00051835_ses-FLU1	NKI	ses-FLU1	-67	1	1	1			1	Pass
 sub-A00051835_ses-FLU2	NKI	ses-FLU2	-34	1			1		1	Pass
 sub-A00051882_ses-BAS1	NKI	ses-BAS1	-30	1	1				1	Pass
 sub-A00051882_ses-BAS2	NKI	ses-BAS2	-27	1	1				1	Pass
@@ -738,9 +738,9 @@ sub-A00053744_ses-BAS1	NKI	ses-BAS1	-55	1	1				1	Pass
 sub-A00053744_ses-TRT	NKI	ses-TRT	-48	1	1	1	1	1	1	Pass
 sub-A00053850_ses-BAS1	NKI	ses-BAS1	-75		1	1		1	1	Pass
 sub-A00053851_ses-BAS1	NKI	ses-BAS1	-29	1	1				1	Pass
-sub-A00053854_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00053854_ses-BAS1	NKI	ses-BAS1	-38	1	1	1			1	Pass
 sub-A00053873_ses-BAS1	NKI	ses-BAS1	-55			1	1	1	1	Pass
-sub-A00053873_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00053873_ses-FLU1	NKI	ses-FLU1	-62	1	1	1			1	Pass
 sub-A00053873_ses-FLU2	NKI	ses-FLU2	-65	1	1				1	Pass
 sub-A00053873_ses-TRT	NKI	ses-TRT	-118	1	0.75				0.875	Artifact
 sub-A00053874_ses-BAS1	NKI	ses-BAS1	-39		1	1		1	1	Pass
@@ -769,7 +769,7 @@ sub-A00054532_ses-BAS1	NKI	ses-BAS1	-45	1			1		1	Pass
 sub-A00054533_ses-BAS1	NKI	ses-BAS1	-47	1	1				1	Pass
 sub-A00054534_ses-BAS1	NKI	ses-BAS1	-78	1	1				1	Pass
 sub-A00054578_ses-BAS1	NKI	ses-BAS1	-107	1			1		1	Pass
-sub-A00054578_ses-TRT	NKI	ses-TRT		1	1	1			1	Pass
+sub-A00054578_ses-TRT	NKI	ses-TRT	-47	1	1	1			1	Pass
 sub-A00054581_ses-BAS1	NKI	ses-BAS1	-81		1	1		1	1	Pass
 sub-A00054581_ses-FLU1	NKI	ses-FLU1	-78	1	1	1	1	1	1	Pass
 sub-A00054581_ses-FLU2	NKI	ses-FLU2	-74			1	1	1	1	Pass
@@ -854,7 +854,7 @@ sub-A00055908_ses-TRT	NKI	ses-TRT	-89		0.75	1		1	0.916666667	Artifact
 sub-A00055920_ses-BAS1	NKI	ses-BAS1	-80	1	1	1	1	1	1	Pass
 sub-A00055920_ses-FLU1	NKI	ses-FLU1	-71		1	1		1	1	Pass
 sub-A00055920_ses-FLU2	NKI	ses-FLU2	-63			1	1	1	1	Pass
-sub-A00055920_ses-TRT	NKI	ses-TRT		0	0	0			0	Fail
+sub-A00055920_ses-TRT	NKI	ses-TRT	-575	0	0	0			0	Fail
 sub-A00055921_ses-FLU2	NKI	ses-FLU2	-67	1			1		1	Pass
 sub-A00055921_ses-TRT	NKI	ses-TRT	-71	1			1		1	Pass
 sub-A00055946_ses-BAS1	NKI	ses-BAS1	-163	0.75	0				0.375	Artifact
@@ -872,11 +872,11 @@ sub-A00056022_ses-BAS1	NKI	ses-BAS1	-106			1	1	1	1	Pass
 sub-A00056022_ses-FLU1	NKI	ses-FLU1	-62			1	1	1	1	Pass
 sub-A00056022_ses-FLU2	NKI	ses-FLU2	-511			0	0	0	0	Fail
 sub-A00056022_ses-TRT	NKI	ses-TRT	-160		0.75	1		1	0.916666667	Artifact
-sub-A00056097_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00056097_ses-BAS1	NKI	ses-BAS1	-90	1	1	1			1	Pass
 sub-A00056098_ses-BAS1	NKI	ses-BAS1	-15	1	1				1	Pass
 sub-A00056098_ses-BAS2	NKI	ses-BAS2	-23		1	1		1	1	Pass
-sub-A00056099_ses-BAS2	NKI	ses-BAS2		1	1	1			1	Pass
-sub-A00056099_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00056099_ses-BAS2	NKI	ses-BAS2	-72	1	1	1			1	Pass
+sub-A00056099_ses-FLU1	NKI	ses-FLU1	-85	1	1	1			1	Pass
 sub-A00056138_ses-BAS1	NKI	ses-BAS1	-65			1	1	1	1	Pass
 sub-A00056138_ses-FLU1	NKI	ses-FLU1	-55	1			1		1	Pass
 sub-A00056138_ses-TRT	NKI	ses-TRT	-65	1	1	1	1	1	1	Pass
@@ -916,7 +916,7 @@ sub-A00056628_ses-BAS1	NKI	ses-BAS1	-79	1			1		1	Pass
 sub-A00056679_ses-BAS1	NKI	ses-BAS1	-116		1	1		1	1	Pass
 sub-A00056679_ses-FLU1	NKI	ses-FLU1	-85	1			1		1	Pass
 sub-A00056679_ses-FLU2	NKI	ses-FLU2	-101			1	1	1	1	Pass
-sub-A00056679_ses-TRT	NKI	ses-TRT		1	1	1			1	Pass
+sub-A00056679_ses-TRT	NKI	ses-TRT	-87	1	1	1			1	Pass
 sub-A00056703_ses-BAS1	NKI	ses-BAS1	-81		1	1		1	1	Pass
 sub-A00056746_ses-BAS1	NKI	ses-BAS1	-99			1	1	1	1	Pass
 sub-A00056746_ses-FLU2	NKI	ses-FLU2	-94	1			1		1	Pass
@@ -1020,7 +1020,7 @@ sub-A00058952_ses-BAS1	NKI	ses-BAS1	-54			1	1	1	1	Pass
 sub-A00058952_ses-BAS2	NKI	ses-BAS2	-44			1	1	1	1	Pass
 sub-A00058952_ses-FLU1	NKI	ses-FLU1	-52		1	1		1	1	Pass
 sub-A00058998_ses-BAS1	NKI	ses-BAS1	-48	1	1	1	1	0.75	0.95	Artifact
-sub-A00058999_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00058999_ses-BAS1	NKI	ses-BAS1	-32	1	1	1			1	Pass
 sub-A00059074_ses-BAS1	NKI	ses-BAS1	-37	1	1	1	1	1	1	Pass
 sub-A00059107_ses-BAS1	NKI	ses-BAS1	-99		1	1		1	1	Pass
 sub-A00059109_ses-BAS1	NKI	ses-BAS1	-152			1	0.5	1	0.833333333	Artifact
@@ -1036,14 +1036,14 @@ sub-A00059327_ses-FLU2	NKI	ses-FLU2	-50			1	1	1	1	Pass
 sub-A00059327_ses-TRT	NKI	ses-TRT	-91	1	1				1	Pass
 sub-A00059344_ses-BAS1	NKI	ses-BAS1	-55	0.75	1				0.875	Artifact
 sub-A00059344_ses-BAS2	NKI	ses-BAS2	-165	0	0.25				0.125	Artifact
-sub-A00059344_ses-FLU1	NKI	ses-FLU1		0.25	0.25	0.5			0.333333333	Artifact
+sub-A00059344_ses-FLU1	NKI	ses-FLU1	-323	0.25	0.25	0.5			0.333333333	Artifact
 sub-A00059344_ses-FLU2	NKI	ses-FLU2	-115	0.75			1		0.875	Artifact
 sub-A00059346_ses-BAS1	NKI	ses-BAS1	-45			1	1	1	1	Pass
 sub-A00059361_ses-BAS1	NKI	ses-BAS1	-78	1	1				1	Pass
 sub-A00059361_ses-BAS2	NKI	ses-BAS2	-70	1	1				1	Pass
 sub-A00059361_ses-FLU1	NKI	ses-FLU1	-61		1	1		1	1	Pass
-sub-A00059361_ses-FLU2	NKI	ses-FLU2		1	1	1			1	Pass
-sub-A00059361_ses-FLU3	NKI	ses-FLU3		1	0.875	1	1	1	0.975	Artifact
+sub-A00059361_ses-FLU2	NKI	ses-FLU2	-86	1	1	1			1	Pass
+sub-A00059361_ses-FLU3	NKI	ses-FLU3	-63	1	0.875	1	1	1	0.975	Artifact
 sub-A00059427_ses-BAS1	NKI	ses-BAS1	-173	0.75	0.25	1	0.5	1	0.7	Artifact
 sub-A00059428_ses-BAS1	NKI	ses-BAS1	-30	1	1	1	1	1	1	Pass
 sub-A00059527_ses-BAS1	NKI	ses-BAS1	-30	1	1				1	Pass
@@ -1080,7 +1080,7 @@ sub-A00060185_ses-BAS1	NKI	ses-BAS1	-95	1	1	1	1	0.75	0.95	Artifact
 sub-A00060252_ses-BAS1	NKI	ses-BAS1	-49			1	1	1	1	Pass
 sub-A00060259_ses-BAS1	NKI	ses-BAS1	-59	1			1		1	Pass
 sub-A00060264_ses-BAS1	NKI	ses-BAS1	-48		1	1		1	1	Pass
-sub-A00060264_ses-BAS2	NKI	ses-BAS2		1	1	1			1	Pass
+sub-A00060264_ses-BAS2	NKI	ses-BAS2	-59	1	1	1			1	Pass
 sub-A00060279_ses-BAS1	NKI	ses-BAS1	-38		1	1		1	1	Pass
 sub-A00060280_ses-BAS1	NKI	ses-BAS1	-55			1	1	1	1	Pass
 sub-A00060280_ses-FLU1	NKI	ses-FLU1	-69	1			1		1	Pass
@@ -1098,7 +1098,7 @@ sub-A00060384_ses-TRT	NKI	ses-TRT	-593			0	0	0	0	Fail
 sub-A00060407_ses-BAS1	NKI	ses-BAS1	-31		1	1		1	1	Pass
 sub-A00060429_ses-BAS1	NKI	ses-BAS1	-191			0.75	0.5	0.25	0.5	Artifact
 sub-A00060429_ses-FLU1	NKI	ses-FLU1	-73		1	1		1	1	Pass
-sub-A00060429_ses-FLU2	NKI	ses-FLU2		0.5	0.25	0.25			0.333333333	Artifact
+sub-A00060429_ses-FLU2	NKI	ses-FLU2	-212	0.5	0.25	0.25			0.333333333	Artifact
 sub-A00060429_ses-TRT	NKI	ses-TRT	-76			1	0.75	1	0.916666667	Artifact
 sub-A00060430_ses-BAS1	NKI	ses-BAS1	-27		1	1		1	1	Pass
 sub-A00060431_ses-BAS1	NKI	ses-BAS1	-61	1			1		1	Pass
@@ -1117,9 +1117,9 @@ sub-A00060503_ses-FLU2	NKI	ses-FLU2	-88	1			1		1	Pass
 sub-A00060516_ses-BAS1	NKI	ses-BAS1	-62			1	1	1	1	Pass
 sub-A00060574_ses-BAS1	NKI	ses-BAS1	-121		1	1		1	1	Pass
 sub-A00060575_ses-BAS1	NKI	ses-BAS1	-46			1	1	1	1	Pass
-sub-A00060575_ses-BAS2	NKI	ses-BAS2		1	0.75	1			0.916666667	Artifact
+sub-A00060575_ses-BAS2	NKI	ses-BAS2	-77	1	0.75	1			0.916666667	Artifact
 sub-A00060575_ses-FLU1	NKI	ses-FLU1	-63	0.75	0.5				0.625	Artifact
-sub-A00060575_ses-FLU2	NKI	ses-FLU2		1	1	1			1	Pass
+sub-A00060575_ses-FLU2	NKI	ses-FLU2	-64	1	1	1			1	Pass
 sub-A00060576_ses-BAS1	NKI	ses-BAS1	-62	1	1	1	1	1	1	Pass
 sub-A00060581_ses-BAS1	NKI	ses-BAS1	-39	1	1				1	Pass
 sub-A00060582_ses-BAS1	NKI	ses-BAS1	-36	1	1	1	1	1	1	Pass
@@ -1172,8 +1172,8 @@ sub-A00061415_ses-BAS1	NKI	ses-BAS1	-94		0.5	1		1	0.833333333	Artifact
 sub-A00061415_ses-FLU1	NKI	ses-FLU1	-77	1			1		1	Pass
 sub-A00061415_ses-FLU2	NKI	ses-FLU2	-159	1	0	1	0.75	1	0.75	Artifact
 sub-A00061415_ses-TRT	NKI	ses-TRT	-324			1	0.25	0	0.416666667	Artifact
-sub-A00061483_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
-sub-A00061485_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00061483_ses-BAS1	NKI	ses-BAS1	-66	1	1	1			1	Pass
+sub-A00061485_ses-BAS1	NKI	ses-BAS1	-76	1	1	1			1	Pass
 sub-A00061597_ses-BAS1	NKI	ses-BAS1	-45		1	1		1	1	Pass
 sub-A00061598_ses-BAS1	NKI	ses-BAS1	-32	1	1				1	Pass
 sub-A00061600_ses-BAS1	NKI	ses-BAS1	-56	1	1	1	1	1	1	Pass
@@ -1251,7 +1251,7 @@ sub-A00062353_ses-TRT	NKI	ses-TRT	-86	1			1		1	Pass
 sub-A00062361_ses-BAS1	NKI	ses-BAS1	-77			1	1	1	1	Pass
 sub-A00062361_ses-FLU1	NKI	ses-FLU1	-529	0			0.75		0.375	Artifact
 sub-A00062361_ses-TRT	NKI	ses-TRT	-131			1	1	1	1	Pass
-sub-A00062368_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00062368_ses-BAS1	NKI	ses-BAS1	-27	1	1	1			1	Pass
 sub-A00062369_ses-BAS1	NKI	ses-BAS1	-52		1	1		1	1	Pass
 sub-A00062369_ses-FLU1	NKI	ses-FLU1	-70	1			1		1	Pass
 sub-A00062369_ses-TRT	NKI	ses-TRT	-51	1			1		1	Pass
@@ -1310,7 +1310,7 @@ sub-A00063368_ses-BAS1	NKI	ses-BAS1	-110	0.5	0	0.5	0.5	0	0.3	Artifact
 sub-A00063383_ses-BAS1	NKI	ses-BAS1	-72		1	1		1	1	Pass
 sub-A00063383_ses-FLU2	NKI	ses-FLU2	-62		1	1		1	1	Pass
 sub-A00063383_ses-TRT	NKI	ses-TRT	-78		1	1		1	1	Pass
-sub-A00063424_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00063424_ses-BAS1	NKI	ses-BAS1	-25	1	1	1			1	Pass
 sub-A00063424_ses-BAS2	NKI	ses-BAS2	-23	1	0.75	1	1	1	0.95	Artifact
 sub-A00063424_ses-FLU1	NKI	ses-FLU1	-29	1	1	1	1	1	1	Pass
 sub-A00063425_ses-BAS1	NKI	ses-BAS1	-340		0	0.25		0.75	0.333333333	Artifact
@@ -1325,7 +1325,7 @@ sub-A00063589_ses-BAS1	NKI	ses-BAS1	-51	1	1	1	1	1	1	Pass
 sub-A00064053_ses-BAS1	NKI	ses-BAS1	-71	1	1	1	1	1	1	Pass
 sub-A00064058_ses-BAS1	NKI	ses-BAS1	-80			1	1	1	1	Pass
 sub-A00064058_ses-FLU2	NKI	ses-FLU2	-62	1	1	1	1	1	1	Pass
-sub-A00064058_ses-FLU3	NKI	ses-FLU3		1	1	1	1	1	1	Pass
+sub-A00064058_ses-FLU3	NKI	ses-FLU3	-88	1	1	1	1	1	1	Pass
 sub-A00064061_ses-BAS1	NKI	ses-BAS1	-116			1	1	1	1	Pass
 sub-A00064081_ses-BAS1	NKI	ses-BAS1	-50			1	1	1	1	Pass
 sub-A00064081_ses-FLU1	NKI	ses-FLU1	-55	1			1		1	Pass
@@ -1370,7 +1370,7 @@ sub-A00065263_ses-BAS1	NKI	ses-BAS1	-67			1	1	1	1	Pass
 sub-A00065302_ses-BAS1	NKI	ses-BAS1	-79	1			1		1	Pass
 sub-A00065302_ses-FLU1	NKI	ses-FLU1	-89		1	1		1	1	Pass
 sub-A00065302_ses-FLU2	NKI	ses-FLU2	-123		0.75	1		0.75	0.833333333	Artifact
-sub-A00065302_ses-FLU3	NKI	ses-FLU3		1	0.875	1	1	1	0.975	Artifact
+sub-A00065302_ses-FLU3	NKI	ses-FLU3	-168	1	0.875	1	1	1	0.975	Artifact
 sub-A00065379_ses-BAS1	NKI	ses-BAS1	-110			1	1	1	1	Pass
 sub-A00065478_ses-BAS1	NKI	ses-BAS1	-136	1			0.75		0.875	Artifact
 sub-A00065478_ses-FLU1	NKI	ses-FLU1	-104			1	1	1	1	Pass
@@ -1386,14 +1386,14 @@ sub-A00065565_ses-BAS1	NKI	ses-BAS1	-58		1	1		1	1	Pass
 sub-A00065572_ses-BAS1	NKI	ses-BAS1	-74		1	1		0.75	0.916666667	Artifact
 sub-A00065572_ses-FLU1	NKI	ses-FLU1	-65	1	1				1	Pass
 sub-A00065572_ses-FLU2	NKI	ses-FLU2	-126	0.5	0.75	0.75	0.75	0.5	0.65	Artifact
-sub-A00065572_ses-FLU3	NKI	ses-FLU3		1	1	1	1	0.5	0.9	Artifact
+sub-A00065572_ses-FLU3	NKI	ses-FLU3	-105	1	1	1	1	0.5	0.9	Artifact
 sub-A00065574_ses-BAS1	NKI	ses-BAS1	-57		1	1		1	1	Pass
 sub-A00065617_ses-BAS1	NKI	ses-BAS1	-100		1	1		1	1	Pass
 sub-A00065717_ses-BAS1	NKI	ses-BAS1	-41	1	1	1	1	1	1	Pass
 sub-A00065722_ses-BAS1	NKI	ses-BAS1	-32			1	1	1	1	Pass
 sub-A00065743_ses-BAS1	NKI	ses-BAS1	-77	1			1		1	Pass
 sub-A00065743_ses-FLU1	NKI	ses-FLU1	-62	1	1				1	Pass
-sub-A00065743_ses-FLU3	NKI	ses-FLU3		1	0.875	0.75	1	0.75	0.875	Artifact
+sub-A00065743_ses-FLU3	NKI	ses-FLU3	-55	1	0.875	0.75	1	0.75	0.875	Artifact
 sub-A00065749_ses-BAS1	NKI	ses-BAS1	-43		1	1		1	1	Pass
 sub-A00065750_ses-BAS1	NKI	ses-BAS1	-245		0.25	0.75		0.5	0.5	Artifact
 sub-A00065790_ses-BAS1	NKI	ses-BAS1	-32	1			1		1	Pass
@@ -1403,7 +1403,7 @@ sub-A00065792_ses-TRT	NKI	ses-TRT	-61	1			1		1	Pass
 sub-A00065802_ses-BAS1	NKI	ses-BAS1	-103	1			1		1	Pass
 sub-A00065802_ses-FLU1	NKI	ses-FLU1	-86	1	1	1	1	1	1	Pass
 sub-A00065802_ses-FLU2	NKI	ses-FLU2	-89			1	1	1	1	Pass
-sub-A00065802_ses-TRT	NKI	ses-TRT		1	1	1			1	Pass
+sub-A00065802_ses-TRT	NKI	ses-TRT	-86	1	1	1			1	Pass
 sub-A00065820_ses-BAS1	NKI	ses-BAS1	-111			1	1	0.5	0.833333333	Artifact
 sub-A00065865_ses-BAS1	NKI	ses-BAS1	-134			1	1	0.75	0.916666667	Artifact
 sub-A00065873_ses-BAS1	NKI	ses-BAS1	-38	1	1				1	Pass
@@ -1411,13 +1411,13 @@ sub-A00065934_ses-BAS1	NKI	ses-BAS1	-79	1	1				1	Pass
 sub-A00065935_ses-BAS1	NKI	ses-BAS1	-152	0.5	0.25	1	0.5	0.25	0.5	Artifact
 sub-A00065935_ses-FLU1	NKI	ses-FLU1	-147		0.25	0.75		0.5	0.5	Artifact
 sub-A00065935_ses-FLU2	NKI	ses-FLU2	-59	0.25	0.5				0.375	Artifact
-sub-A00065935_ses-FLU3	NKI	ses-FLU3		1	0.875	1	1	1	0.975	Artifact
+sub-A00065935_ses-FLU3	NKI	ses-FLU3	-38	1	0.875	1	1	1	0.975	Artifact
 sub-A00065941_ses-BAS1	NKI	ses-BAS1	-71			1	1	1	1	Pass
 sub-A00065941_ses-FLU1	NKI	ses-FLU1	-67	1	1				1	Pass
 sub-A00065941_ses-FLU2	NKI	ses-FLU2	-375	0	0	0.5	0	0.25	0.15	Artifact
 sub-A00065962_ses-BAS1	NKI	ses-BAS1	-31	1	1	1	1	1	1	Pass
 sub-A00065962_ses-FLU2	NKI	ses-FLU2	-24	1	1				1	Pass
-sub-A00065962_ses-FLU3	NKI	ses-FLU3		1	0.75	1	1	1	0.95	Artifact
+sub-A00065962_ses-FLU3	NKI	ses-FLU3	-33	1	0.75	1	1	1	0.95	Artifact
 sub-A00065974_ses-BAS1	NKI	ses-BAS1	-49		1	1		1	1	Pass
 sub-A00065974_ses-FLU1	NKI	ses-FLU1	-154			1	0.75	0.5	0.75	Artifact
 sub-A00065974_ses-FLU2	NKI	ses-FLU2	-53	1	1				1	Pass
@@ -1437,11 +1437,11 @@ sub-A00065992_ses-TRT	NKI	ses-TRT	-117			1	1	1	1	Pass
 sub-A00065995_ses-BAS1	NKI	ses-BAS1	-117		1	1		1	1	Pass
 sub-A00065995_ses-FLU1	NKI	ses-FLU1	-81			1	0.75	1	0.916666667	Artifact
 sub-A00065995_ses-FLU2	NKI	ses-FLU2	-86	1	1	1	1	1	1	Pass
-sub-A00065995_ses-FLU3	NKI	ses-FLU3		1	0.75	1	1	1	0.95	Artifact
+sub-A00065995_ses-FLU3	NKI	ses-FLU3	-89	1	0.75	1	1	1	0.95	Artifact
 sub-A00066013_ses-BAS1	NKI	ses-BAS1	-24			1	1	1	1	Pass
 sub-A00066013_ses-FLU1	NKI	ses-FLU1	-21		1	1		1	1	Pass
 sub-A00066013_ses-FLU2	NKI	ses-FLU2	-37		1	1		1	1	Pass
-sub-A00066013_ses-FLU3	NKI	ses-FLU3		1	1	1	1	1	1	Pass
+sub-A00066013_ses-FLU3	NKI	ses-FLU3	-28	1	1	1	1	1	1	Pass
 sub-A00066087_ses-BAS1	NKI	ses-BAS1	-63		0.75	1		0.5	0.75	Artifact
 sub-A00066091_ses-BAS1	NKI	ses-BAS1	-86		1	1		1	1	Pass
 sub-A00066130_ses-BAS1	NKI	ses-BAS1	-100			1	1	1	1	Pass
@@ -1451,7 +1451,7 @@ sub-A00066153_ses-BAS1	NKI	ses-BAS1	-75	1			1		1	Pass
 sub-A00066154_ses-BAS1	NKI	ses-BAS1	-41	1			1		1	Pass
 sub-A00066154_ses-FLU1	NKI	ses-FLU1	-87			0.75	0.75	0.25	0.583333333	Artifact
 sub-A00066154_ses-FLU2	NKI	ses-FLU2	-50		1	1		1	1	Pass
-sub-A00066162_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00066162_ses-BAS1	NKI	ses-BAS1	-52	1	1	1			1	Pass
 sub-A00066232_ses-BAS1	NKI	ses-BAS1	-76		1	1		1	1	Pass
 sub-A00066236_ses-BAS1	NKI	ses-BAS1	-97			1	1	1	1	Pass
 sub-A00066237_ses-BAS1	NKI	ses-BAS1	-49	1	1	1	1	1	1	Pass
@@ -1462,7 +1462,7 @@ sub-A00066245_ses-FLU1	NKI	ses-FLU1	-40	1	1				1	Pass
 sub-A00066245_ses-FLU2	NKI	ses-FLU2	-69	1	1	1	1	0.5	0.9	Artifact
 sub-A00066246_ses-BAS1	NKI	ses-BAS1	-70			1	1	1	1	Pass
 sub-A00066248_ses-FLU1	NKI	ses-FLU1	-360		0.25	0.5		0.25	0.333333333	Artifact
-sub-A00066248_ses-FLU2	NKI	ses-FLU2		0	0	0			0	Fail
+sub-A00066248_ses-FLU2	NKI	ses-FLU2	-462	0	0	0			0	Fail
 sub-A00066282_ses-BAS1	NKI	ses-BAS1	-70	1	1				1	Pass
 sub-A00066302_ses-BAS1	NKI	ses-BAS1	-50	1	1				1	Pass
 sub-A00066302_ses-FLU2	NKI	ses-FLU2	-52		1	1		1	1	Pass
@@ -1508,9 +1508,9 @@ sub-A00066697_ses-TRT	NKI	ses-TRT	-314		0.25	0.25		0.25	0.25	Artifact
 sub-A00066698_ses-BAS1	NKI	ses-BAS1	-155	1	0.25	1	1	1	0.85	Artifact
 sub-A00066698_ses-FLU1	NKI	ses-FLU1	-146	1			1		1	Pass
 sub-A00066698_ses-TRT	NKI	ses-TRT	-64		1	1		1	1	Pass
-sub-A00066735_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00066735_ses-BAS1	NKI	ses-BAS1	-63	1	1	1			1	Pass
 sub-A00066781_ses-BAS1	NKI	ses-BAS1	-66	1			1		1	Pass
-sub-A00066782_ses-BAS1	NKI	ses-BAS1		0.25	0.75	0.25			0.416666667	Artifact
+sub-A00066782_ses-BAS1	NKI	ses-BAS1	-283	0.25	0.75	0.25			0.416666667	Artifact
 sub-A00066782_ses-FLU1	NKI	ses-FLU1	-141	0	0.5	1	0.75	0.5	0.55	Artifact
 sub-A00066784_ses-BAS1	NKI	ses-BAS1	-183			1	1	1	1	Pass
 sub-A00066784_ses-FLU1	NKI	ses-FLU1	-141	1	1				1	Pass
@@ -1554,14 +1554,14 @@ sub-A00073529_ses-BAS1	NKI	ses-BAS1	-71		1	1		1	1	Pass
 sub-A00073539_ses-BAS1	NKI	ses-BAS1	-29			1	1	1	1	Pass
 sub-A00073539_ses-FLU1	NKI	ses-FLU1	-22	1	1	1	1	1	1	Pass
 sub-A00073539_ses-FLU2	NKI	ses-FLU2	-32			1	1	0.75	0.916666667	Artifact
-sub-A00073545_ses-BAS1	NKI	ses-BAS1		1	0	0.5			0.5	Artifact
+sub-A00073545_ses-BAS1	NKI	ses-BAS1	-173	1	0	0.5			0.5	Artifact
 sub-A00073545_ses-FLU1	NKI	ses-FLU1	-221	0	0	0	0	0	0	Fail
 sub-A00073545_ses-FLU2	NKI	ses-FLU2	-68			1	1	1	1	Pass
 sub-A00073545_ses-TRT	NKI	ses-TRT	-326	0	0				0	Fail
 sub-A00073600_ses-BAS1	NKI	ses-BAS1	-49			1	1	1	1	Pass
 sub-A00073611_ses-BAS1	NKI	ses-BAS1	-83		1	1		1	1	Pass
 sub-A00073677_ses-BAS1	NKI	ses-BAS1	-34			1	1	1	1	Pass
-sub-A00073677_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00073677_ses-FLU1	NKI	ses-FLU1	-32	1	1	1			1	Pass
 sub-A00073677_ses-FLU2	NKI	ses-FLU2	-41		1	1		0.5	0.833333333	Artifact
 sub-A00073705_ses-BAS1	NKI	ses-BAS1	-86		1	1		1	1	Pass
 sub-A00073940_ses-BAS1	NKI	ses-BAS1	-24	1	1	1	1	1	1	Pass
@@ -1583,8 +1583,8 @@ sub-A00074095_ses-BAS1	NKI	ses-BAS1	-51	0.75	1	1	1	1	0.95	Artifact
 sub-A00074113_ses-BAS1	NKI	ses-BAS1	-64	1	1	1	1	1	1	Pass
 sub-A00074113_ses-FLU1	NKI	ses-FLU1	-57	1			1		1	Pass
 sub-A00074113_ses-FLU2	NKI	ses-FLU2	-44	1			1		1	Pass
-sub-A00074114_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
-sub-A00074114_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00074114_ses-BAS1	NKI	ses-BAS1	-60	1	1	1			1	Pass
+sub-A00074114_ses-FLU1	NKI	ses-FLU1	-55	1	1	1			1	Pass
 sub-A00074114_ses-FLU2	NKI	ses-FLU2	-67	1			1		1	Pass
 sub-A00074425_ses-BAS1	NKI	ses-BAS1	-97	1	1				1	Pass
 sub-A00074427_ses-BAS1	NKI	ses-BAS1	-51			1	1	1	1	Pass
@@ -1635,8 +1635,8 @@ sub-A00074794_ses-BAS1	NKI	ses-BAS1	-64			1	1	1	1	Pass
 sub-A00074794_ses-FLU1	NKI	ses-FLU1	-51	1			1		1	Pass
 sub-A00074794_ses-FLU2	NKI	ses-FLU2	-60	1	1				1	Pass
 sub-A00074795_ses-BAS1	NKI	ses-BAS1	-54			1	1	1	1	Pass
-sub-A00074795_ses-FLU2	NKI	ses-FLU2		1	1	1			1	Pass
-sub-A00074800_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00074795_ses-FLU2	NKI	ses-FLU2	-39	1	1	1			1	Pass
+sub-A00074800_ses-BAS1	NKI	ses-BAS1	-44	1	1	1			1	Pass
 sub-A00074800_ses-FLU1	NKI	ses-FLU1	-55	1	1				1	Pass
 sub-A00074800_ses-FLU2	NKI	ses-FLU2	-35	1			1		1	Pass
 sub-A00074802_ses-BAS1	NKI	ses-BAS1	-71	1			1		1	Pass
@@ -1680,7 +1680,7 @@ sub-A00075150_ses-TRT	NKI	ses-TRT	-139			1	0.75	0.75	0.833333333	Artifact
 sub-A00075151_ses-BAS1	NKI	ses-BAS1	-55	1	1				1	Pass
 sub-A00075151_ses-TRT	NKI	ses-TRT	-66		1	1		1	1	Pass
 sub-A00075156_ses-BAS1	NKI	ses-BAS1	-61			1	1	1	1	Pass
-sub-A00075193_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00075193_ses-BAS1	NKI	ses-BAS1	-37	1	1	1			1	Pass
 sub-A00075210_ses-BAS1	NKI	ses-BAS1	-63	1	1	1	1	0.5	0.9	Artifact
 sub-A00075210_ses-FLU1	NKI	ses-FLU1	-47	1			1		1	Pass
 sub-A00075220_ses-BAS1	NKI	ses-BAS1	-36	1	1	1	1	1	1	Pass
@@ -1764,7 +1764,7 @@ sub-A00076546_ses-FLU2	NKI	ses-FLU2	-33		1	1		1	1	Pass
 sub-A00076559_ses-BAS1	NKI	ses-BAS1	-28	1	1				1	Pass
 sub-A00076559_ses-FLU1	NKI	ses-FLU1	-42			1	1	1	1	Pass
 sub-A00076559_ses-FLU2	NKI	ses-FLU2	-44			1	1	1	1	Pass
-sub-A00076568_ses-BAS1	NKI	ses-BAS1		0	0	0			0	Fail
+sub-A00076568_ses-BAS1	NKI	ses-BAS1	-744	0	0	0			0	Fail
 sub-A00076568_ses-TRT	NKI	ses-TRT	-100	1			1		1	Pass
 sub-A00076574_ses-BAS1	NKI	ses-BAS1	-73	1			1		1	Pass
 sub-A00076574_ses-FLU1	NKI	ses-FLU1	-174			0.75	0.75	0	0.5	Artifact
@@ -1780,7 +1780,7 @@ sub-A00076595_ses-FLU1	NKI	ses-FLU1	-43	1			1		1	Pass
 sub-A00076595_ses-FLU2	NKI	ses-FLU2	-129	0	0				0	Fail
 sub-A00076595_ses-TRT	NKI	ses-TRT	-35	1			1		1	Pass
 sub-A00076600_ses-BAS1	NKI	ses-BAS1	-102		1	1		1	1	Pass
-sub-A00076600_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00076600_ses-FLU1	NKI	ses-FLU1	-69	1	1	1			1	Pass
 sub-A00076744_ses-BAS1	NKI	ses-BAS1	-39	1	1				1	Pass
 sub-A00076746_ses-BAS1	NKI	ses-BAS1	-46	1	1	1	1	1	1	Pass
 sub-A00076746_ses-FLU1	NKI	ses-FLU1	-67	1			1		1	Pass
@@ -1807,7 +1807,7 @@ sub-A00076863_ses-BAS1	NKI	ses-BAS1	-33	1			1		1	Pass
 sub-A00076941_ses-BAS1	NKI	ses-BAS1	-115	1	0.75	1	1	1	0.95	Artifact
 sub-A00076941_ses-FLU1	NKI	ses-FLU1	-122	1			1		1	Pass
 sub-A00076941_ses-TRT	NKI	ses-TRT	-66	0.5	1				0.75	Artifact
-sub-A00077088_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00077088_ses-BAS1	NKI	ses-BAS1	-59	1	1	1			1	Pass
 sub-A00077088_ses-FLU1	NKI	ses-FLU1	-58			1	1	1	1	Pass
 sub-A00077088_ses-FLU2	NKI	ses-FLU2	-47	1			1		1	Pass
 sub-A00077091_ses-BAS1	NKI	ses-BAS1	-32	1	1	1	1	1	1	Pass
@@ -1823,7 +1823,7 @@ sub-A00077134_ses-BAS1	NKI	ses-BAS1	-56	1	1	1	1	1	1	Pass
 sub-A00077134_ses-FLU1	NKI	ses-FLU1	-48		1	1		1	1	Pass
 sub-A00077134_ses-FLU2	NKI	ses-FLU2	-70		1	1		1	1	Pass
 sub-A00077144_ses-BAS1	NKI	ses-BAS1	-27		1	1		1	1	Pass
-sub-A00077181_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00077181_ses-BAS1	NKI	ses-BAS1	-44	1	1	1			1	Pass
 sub-A00077181_ses-FLU2	NKI	ses-FLU2	-57	1	0.75				0.875	Artifact
 sub-A00077182_ses-BAS1	NKI	ses-BAS1	-33			1	1	1	1	Pass
 sub-A00077183_ses-BAS1	NKI	ses-BAS1	-145	1	1	0.75	1	1	0.95	Artifact
@@ -1842,7 +1842,7 @@ sub-A00077203_ses-FLU1	NKI	ses-FLU1	-51	1	1				1	Pass
 sub-A00077203_ses-FLU2	NKI	ses-FLU2	-14	1	1	1	1	1	1	Pass
 sub-A00077203_ses-TRT	NKI	ses-TRT	-42	1	1	1	1	1	1	Pass
 sub-A00077204_ses-BAS1	NKI	ses-BAS1	-79	1	1	1	1	1	1	Pass
-sub-A00077213_ses-BAS1	NKI	ses-BAS1		1	1	1			1	Pass
+sub-A00077213_ses-BAS1	NKI	ses-BAS1	-82	1	1	1			1	Pass
 sub-A00077213_ses-FLU1	NKI	ses-FLU1	-25		1	1		0.75	0.916666667	Artifact
 sub-A00077252_ses-BAS1	NKI	ses-BAS1	-37		1	1		1	1	Pass
 sub-A00077252_ses-FLU1	NKI	ses-FLU1	-41			1	1	1	1	Pass
@@ -1862,7 +1862,7 @@ sub-A00077397_ses-FLU2	NKI	ses-FLU2	-262			1	0.25	0.5	0.583333333	Artifact
 sub-A00077412_ses-BAS1	NKI	ses-BAS1	-68			1	1	1	1	Pass
 sub-A00077412_ses-FLU1	NKI	ses-FLU1	-76		1	1		1	1	Pass
 sub-A00077412_ses-FLU2	NKI	ses-FLU2	-131		1	1		1	1	Pass
-sub-A00077412_ses-TRT	NKI	ses-TRT		1	1	1			1	Pass
+sub-A00077412_ses-TRT	NKI	ses-TRT	-53	1	1	1			1	Pass
 sub-A00077413_ses-BAS1	NKI	ses-BAS1	-30	1	1	1	1	1	1	Pass
 sub-A00077413_ses-FLU1	NKI	ses-FLU1	-17	1	1	1	1	1	1	Pass
 sub-A00077413_ses-FLU2	NKI	ses-FLU2	-48		1	1		1	1	Pass
@@ -1942,7 +1942,7 @@ sub-A00079850_ses-BAS1	NKI	ses-BAS1	-34	1	1				1	Pass
 sub-A00079850_ses-FLU1	NKI	ses-FLU1	-40	1	1				1	Pass
 sub-A00079850_ses-FLU2	NKI	ses-FLU2	-42		1	1		1	1	Pass
 sub-A00079907_ses-BAS1	NKI	ses-BAS1	-44		1	1		1	1	Pass
-sub-A00079931_ses-BAS1	NKI	ses-BAS1		0	0	0			0	Fail
+sub-A00079931_ses-BAS1	NKI	ses-BAS1	-810	0	0	0			0	Fail
 sub-A00079977_ses-BAS1	NKI	ses-BAS1	-24			1	1	1	1	Pass
 sub-A00079977_ses-FLU1	NKI	ses-FLU1	-20	1			1		1	Pass
 sub-A00079977_ses-FLU2	NKI	ses-FLU2	-25	1	1				1	Pass
@@ -1979,12 +1979,12 @@ sub-A00081064_ses-TRT	NKI	ses-TRT	-116		1	1		1	1	Pass
 sub-A00081065_ses-BAS1	NKI	ses-BAS1	-376		0	0.25		0	0.083333333	Artifact
 sub-A00081065_ses-FLU1	NKI	ses-FLU1	-61	1	1	1	1	1	1	Pass
 sub-A00081065_ses-FLU2	NKI	ses-FLU2	-100	1	0.5	1	0.75	1	0.85	Artifact
-sub-A00081065_ses-TRT	NKI	ses-TRT		1	0.25	0.75			0.666666667	Artifact
+sub-A00081065_ses-TRT	NKI	ses-TRT	-196	1	0.25	0.75			0.666666667	Artifact
 sub-A00081071_ses-BAS1	NKI	ses-BAS1	-30	1			1		1	Pass
 sub-A00081071_ses-FLU1	NKI	ses-FLU1	-65			1	1	1	1	Pass
 sub-A00081071_ses-FLU2	NKI	ses-FLU2	-60			1	1	1	1	Pass
 sub-A00081090_ses-BAS1	NKI	ses-BAS1	-115			1	0.75	0.5	0.75	Artifact
-sub-A00081090_ses-FLU1	NKI	ses-FLU1		0	0	0			0	Fail
+sub-A00081090_ses-FLU1	NKI	ses-FLU1	-321	0	0	0			0	Fail
 sub-A00081090_ses-FLU2	NKI	ses-FLU2	-130	1			1		1	Pass
 sub-A00081090_ses-TRT	NKI	ses-TRT	-461		0	0		0	0	Fail
 sub-A00081098_ses-BAS1	NKI	ses-BAS1	-152			1	1	1	1	Pass
@@ -2010,7 +2010,7 @@ sub-A00081149_ses-BAS1	NKI	ses-BAS1	-37	1			1		1	Pass
 sub-A00081149_ses-FLU1	NKI	ses-FLU1	-26		1	1		1	1	Pass
 sub-A00081175_ses-BAS1	NKI	ses-BAS1	-55	1	1	1	1	1	1	Pass
 sub-A00081175_ses-FLU1	NKI	ses-FLU1	-56	1	1				1	Pass
-sub-A00081175_ses-FLU2	NKI	ses-FLU2		1	1	1			1	Pass
+sub-A00081175_ses-FLU2	NKI	ses-FLU2	-55	1	1	1			1	Pass
 sub-A00081185_ses-BAS1	NKI	ses-BAS1	-73	1	1				1	Pass
 sub-A00081185_ses-FLU1	NKI	ses-FLU1	-85	1	1	1	1	0.75	0.95	Artifact
 sub-A00081239_ses-BAS1	NKI	ses-BAS1	-32		1	1		1	1	Pass
@@ -2018,7 +2018,7 @@ sub-A00081243_ses-BAS1	NKI	ses-BAS1	-69	1	1	1	1	1	1	Pass
 sub-A00081243_ses-FLU1	NKI	ses-FLU1	-68		1	1		1	1	Pass
 sub-A00081253_ses-BAS1	NKI	ses-BAS1	-68	1			1		1	Pass
 sub-A00081253_ses-FLU1	NKI	ses-FLU1	-80	1	1				1	Pass
-sub-A00081385_ses-FLU1	NKI	ses-FLU1		0	0	0			0	Fail
+sub-A00081385_ses-FLU1	NKI	ses-FLU1	-641	0	0	0			0	Fail
 sub-A00081385_ses-FLU2	NKI	ses-FLU2	-671			0	0.25	0	0.083333333	Artifact
 sub-A00081385_ses-TRT	NKI	ses-TRT	-88	1	1				1	Pass
 sub-A00081392_ses-BAS1	NKI	ses-BAS1	-56	1	1				1	Pass
@@ -2034,7 +2034,7 @@ sub-A00081517_ses-BAS1	NKI	ses-BAS1	-58	1	1				1	Pass
 sub-A00081517_ses-FLU1	NKI	ses-FLU1	-65			1	1	1	1	Pass
 sub-A00081518_ses-BAS1	NKI	ses-BAS1	-183	0.75			0.75		0.75	Artifact
 sub-A00081518_ses-FLU1	NKI	ses-FLU1	-331			0	0	0	0	Fail
-sub-A00081518_ses-TRT	NKI	ses-TRT		0	0	0			0	Fail
+sub-A00081518_ses-TRT	NKI	ses-TRT	-396	0	0	0			0	Fail
 sub-A00081519_ses-BAS1	NKI	ses-BAS1	-626	0	0	0	0	0	0	Fail
 sub-A00081543_ses-BAS1	NKI	ses-BAS1	-55		1	1		1	1	Pass
 sub-A00081544_ses-BAS1	NKI	ses-BAS1	-38	1	1				1	Pass
@@ -2062,7 +2062,7 @@ sub-A00081735_ses-BAS1	NKI	ses-BAS1	-149	1			1		1	Pass
 sub-A00081735_ses-FLU1	NKI	ses-FLU1	-142	1	1	1	0.75	0.75	0.9	Artifact
 sub-A00081777_ses-BAS1	NKI	ses-BAS1	-123	1	1	1	0.75	0.75	0.9	Artifact
 sub-A00081780_ses-BAS1	NKI	ses-BAS1	-41	1	1				1	Pass
-sub-A00081780_ses-FLU1	NKI	ses-FLU1		1	1	1			1	Pass
+sub-A00081780_ses-FLU1	NKI	ses-FLU1	-45	1	1	1			1	Pass
 sub-A00081785_ses-BAS1	NKI	ses-BAS1	-63			1	1	1	1	Pass
 sub-A00081785_ses-FLU1	NKI	ses-FLU1	-72			1	1	1	1	Pass
 sub-A00081794_ses-BAS1	NKI	ses-BAS1	-30			1	1	1	1	Pass
@@ -2089,7 +2089,7 @@ sub-A00082217_ses-TRT	NKI	ses-TRT	-124	1	1				1	Pass
 sub-A00082442_ses-BAS1	NKI	ses-BAS1	-36		1	1		1	1	Pass
 sub-A00082524_ses-BAS1	NKI	ses-BAS1	-55		1	1		1	1	Pass
 sub-A00082524_ses-FLU1	NKI	ses-FLU1	-61		1	1		1	1	Pass
-sub-A00082528_ses-BAS1	NKI	ses-BAS1		1	0.25	1			0.75	Artifact
+sub-A00082528_ses-BAS1	NKI	ses-BAS1	-87	1	0.25	1			0.75	Artifact
 sub-A00082528_ses-FLU1	NKI	ses-FLU1	-44			1	1	1	1	Pass
 sub-A00082529_ses-BAS1	NKI	ses-BAS1	-29	1	1				1	Pass
 sub-A00082529_ses-FLU1	NKI	ses-FLU1	-34	1	1				1	Pass
@@ -2218,7 +2218,7 @@ sub-A00085795_ses-BAS1	NKI	ses-BAS1	-424			0	0	0	0	Fail
 sub-A00085795_ses-FLU1	NKI	ses-FLU1	-88			0.75	0.5	0.75	0.666666667	Artifact
 sub-A00085795_ses-TRT	NKI	ses-TRT	-50		1	1		1	1	Pass
 sub-A00085796_ses-BAS1	NKI	ses-BAS1	-49			1	1	1	1	Pass
-sub-A00085796_ses-FLU1	NKI	ses-FLU1		1	0.75	1			0.916666667	Artifact
+sub-A00085796_ses-FLU1	NKI	ses-FLU1	-93	1	0.75	1			0.916666667	Artifact
 sub-A00085797_ses-BAS1	NKI	ses-BAS1	-177	0.5	0.5				0.5	Artifact
 sub-A00085797_ses-FLU1	NKI	ses-FLU1	-193			1	1	0.25	0.75	Artifact
 sub-A00085828_ses-BAS1	NKI	ses-BAS1	-46	1	1				1	Pass
