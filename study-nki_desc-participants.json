@@ -6,28 +6,37 @@
         "LongName": "Study identifier",
         "Description": "The study in which this participant participated.",
         "Levels": {
-            "a": "Study X (doi:XXXX)"
+            "NKI": "Nathan Kline Institute - Rockland Sample"
         }
     },
     "study_site": {
         "LongName": "Study site",
         "Description": "Participant's study recruitment site.",
         "Levels": {
-            "study_a_site_1": "Site 1 from study X."
+            "NKI": "Site 1 from NKI study."
         }
     },
     "session": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
-            "1": "Session 1 from study X."
+            "BAS1": "Baseline 1 session from study NKI.",
+            "BAS2": "Baseline 2 session from study NKI.",
+            "BAS3": "Baseline 3 session from study NKI.",
+            "FLU1": "Followup 1 session from study NKI.",
+            "FLU2": "Followup 2 session from study NKI.",
+            "TRT": "Test-retest session from study NKI.",
         }
     },
     "wave": {
         "LongName": "Recruitment wave",
         "Description": "Participant's recruitment wave within the study.",
         "Levels": {
-            "1": "Wave 1 from study X."
+            "BAS1": "Baseline 1 session from study NKI.",
+            "BAS2": "Baseline 2 session from study NKI.",
+            "BAS3": "Baseline 3 session from study NKI.",
+            "FLU1": "Followup 1 session from study NKI.",
+            "FLU2": "Followup 2 session from study NKI.",
         }
     },
     "age": {
