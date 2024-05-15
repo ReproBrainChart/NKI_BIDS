@@ -918,7 +918,7 @@ sub-A00056420	FLU2	NKI	NKI	ses-FLU2	Male	11.83333333	not Hispanic or Latino	Whit
 sub-A00056420	BAS1	NKI	NKI	ses-TRT	Male	9.333333333	not Hispanic or Latino	White	14.52951061	Right	4th Grade	Complete tertiary	Complete tertiary	-1.042224955	-0.243204719	-0.535442407	-0.042363132	2
 sub-A00056452	BAS1	NKI	NKI	ses-BAS1	Female	40.25	not Hispanic or Latino	White	25.68694821	Right	Bachelor's Degree	Complete tertiary	Complete secondary					211
 sub-A00056452	BAS2	NKI	NKI	ses-BAS2	Female	42.58333333	not Hispanic or Latino	White	25.17833148	Right	Bachelor's Degree	Complete secondary	Complete secondary					38
-sub-A00056453	BAS1	NKI	NKI	ses-BAS1	Male	0			20.20518443	Right				-0.762220407	-0.933487268	-0.681147212	-0.878453682	39
+sub-A00056453	BAS1	NKI	NKI	ses-BAS1	Male	17.408			20.20518443	Right				-0.762220407	-0.933487268	-0.681147212	-0.878453682	39
 sub-A00056470	BAS1	NKI	NKI	ses-BAS1	Female	12.91666667	Hispanic or Latino	White	29.27677579	Right	7th Grade	Complete secondary	Complete secondary	0.538327031	-0.81742206	1.409087153	-1.566563604	2
 sub-A00056470	BAS1	NKI	NKI	ses-TRT	Female	12.91666667	Hispanic or Latino	White	29.27677579	Right	7th Grade	Complete secondary	Complete secondary	0.538327031	-0.81742206	1.409087153	-1.566563604	212
 sub-A00056489	BAS1	NKI	NKI	ses-BAS1	Male	36.91666667	not Hispanic or Latino	Black	26.21871763	Right	High School Diploma	Complete secondary	Complete secondary					2
@@ -1538,10 +1538,10 @@ sub-A00066589	FLU1	NKI	NKI	ses-FLU1	Female	14.66666667	not Hispanic or Latino	Wh
 sub-A00066589	FLU2	NKI	NKI	ses-FLU2	Female	15.83333333	not Hispanic or Latino	White	19.91952663	Right	8th Grade	Complete tertiary	Complete tertiary					1
 sub-A00066589	BAS1	NKI	NKI	ses-TRT	Female	13.83333333	not Hispanic or Latino	White	18.43298667	Right	8th Grade	Complete tertiary	Complete tertiary	1.423780008	1.537479908	2.646678584	-2.576531393	2
 sub-A00066697	BAS1	NKI	NKI	ses-BAS1	Female	10.75	not Hispanic or Latino	White	18.5486671	Right	5th Grade	Complete secondary	Complete secondary	-0.607481052	0.49594739	0.166099248	0.531061803	2
-sub-A00066697	FLU1	NKI	NKI	ses-FLU1	Female	0	not Hispanic or Latino	White	21.71608358	Right	5th Grade	Complete secondary	Complete secondary					5
+sub-A00066697	FLU1	NKI	NKI	ses-FLU1	Female	13.054	not Hispanic or Latino	White	21.71608358	Right	5th Grade	Complete secondary	Complete secondary					5
 sub-A00066697	BAS1	NKI	NKI	ses-TRT	Female	10.75	not Hispanic or Latino	White	18.5486671	Right	5th Grade	Complete secondary	Complete secondary	-0.607481052	0.49594739	0.166099248	0.531061803	2
 sub-A00066698	BAS1	NKI	NKI	ses-BAS1	Female	10.75	not Hispanic or Latino	White	18.60546875	Right	5th Grade	Complete secondary	Complete secondary	0.007792098	-0.970139438	-1.481624228	-1.387137093	2
-sub-A00066698	FLU1	NKI	NKI	ses-FLU1	Female	0	not Hispanic or Latino	White	20.31394275	Right	5th Grade	Complete secondary	Complete secondary					5
+sub-A00066698	FLU1	NKI	NKI	ses-FLU1	Female	13.054	not Hispanic or Latino	White	20.31394275	Right	5th Grade	Complete secondary	Complete secondary					5
 sub-A00066698	BAS1	NKI	NKI	ses-TRT	Female	10.75	not Hispanic or Latino	White	18.60546875	Right	5th Grade	Complete secondary	Complete secondary	0.007792098	-0.970139438	-1.481624228	-1.387137093	11
 sub-A00066735	BAS1	NKI	NKI	ses-BAS1	Male	22.83333333	not Hispanic or Latino	White	23.24380165	Right	Some College	Complete tertiary	Complete tertiary					2
 sub-A00066781	BAS1	NKI	NKI	ses-BAS1	Male	27.5	not Hispanic or Latino	White	24.63536855	Right	Graduate Degree	Complete tertiary	Complete tertiary					2
@@ -2094,7 +2094,7 @@ sub-A00081616	FLU1	NKI	NKI	ses-FLU1	Male	59.5	not Hispanic or Latino	White	26.60
 sub-A00081719	BAS1	NKI	NKI	ses-BAS1	Female	68.75	not Hispanic or Latino	White	23.60041623	Right	High School Diploma	Complete secondary	Complete secondary					1
 sub-A00081719	FLU1	NKI	NKI	ses-FLU1	Female	69.66666667	not Hispanic or Latino	White	24.24391847	Right	High School Diploma	Complete secondary	Complete secondary					1
 sub-A00081721	BAS1	NKI	NKI	ses-BAS1	Male	58.66666667	not Hispanic or Latino	Black	44.13714286	Right	Some College	No/incomplete primary						8
-sub-A00081721	FLU1	NKI	NKI	ses-FLU1	Male	0	not Hispanic or Latino	Black	41.94546143	Right	Some College	No/incomplete primary						1
+sub-A00081721	FLU1	NKI	NKI	ses-FLU1	Male	59.605	not Hispanic or Latino	Black	41.94546143	Right	Some College	No/incomplete primary						1
 sub-A00081724	BAS1	NKI	NKI	ses-BAS1	Female	52.25	not Hispanic or Latino	White	23.36808795	Right	Some College	Complete secondary	Complete tertiary					1
 sub-A00081724	FLU1	NKI	NKI	ses-FLU1	Female	53.41666667	not Hispanic or Latino	White	22.34375	Right	Some College	Complete secondary	Complete tertiary					6
 sub-A00081725	BAS1	NKI	NKI	ses-BAS1	Female	56.66666667	not Hispanic or Latino	White	23.09154147	Right	Graduate Degree	Complete tertiary	Complete tertiary					1
