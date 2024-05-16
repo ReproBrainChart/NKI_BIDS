@@ -109,8 +109,8 @@
         "Description": "Mother's education level at time of scan/intake.",
         "Levels": {
             "No/incomplete primary": "Kindergarten through 8th grade",
-            "Complete primary": "Some high school",
-            "Complete secondary": "9th grade through some college",
+            "Complete primary": "9th grade through 12th grade",
+            "Complete secondary": "Some college",
             "Complete tertiary": "Bachelor's degree or higher"
         }
     },
@@ -119,8 +119,8 @@
         "Description": "Father's education level at time of scan/intake.",
         "Levels": {
             "No/incomplete primary": "Kindergarten through 8th grade",
-            "Complete primary": "Some high school",
-            "Complete secondary": "9th grade through some college",
+            "Complete primary": "9th grade through 12th grade",
+            "Complete secondary": "Some college",
             "Complete tertiary": "Bachelor's degree or higher"
         }
     },
