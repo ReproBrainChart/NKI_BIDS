@@ -16,7 +16,7 @@
             "NKI": "Site 1 from NKI study."
         }
     },
-    "session": {
+    "session_id": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
