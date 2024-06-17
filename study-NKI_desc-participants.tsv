@@ -1,4 +1,4 @@
-participant_id	wave	study	study_site	session	sex	age	ethnicity	race	bmi	handedness	participant_education	parent_1_education	parent_2_education	p_factor_mcelroy_harmonized_all_samples	internalizing_mcelroy_harmonized_all_samples	externalizing_mcelroy_harmonized_all_samples	attention_mcelroy_harmonized_all_samples	cubids_acquisition_group
+participant_id	wave	study	study_site	session_id	sex	age	ethnicity	race	bmi	handedness	participant_education	parent_1_education	parent_2_education	p_factor_mcelroy_harmonized_all_samples	internalizing_mcelroy_harmonized_all_samples	externalizing_mcelroy_harmonized_all_samples	attention_mcelroy_harmonized_all_samples	cubids_acquisition_group
 sub-A00008326	BAS1	NKI	NKI	ses-BAS1	Female	59.33333333	not Hispanic or Latino	White	26.0403645	Right	High School Diploma	Complete secondary	Complete primary					43
 sub-A00008326	BAS2	NKI	NKI	ses-BAS2	Female	64.5	not Hispanic or Latino	White	28.72063592	Right	High School Diploma	Complete primary	Complete primary					1
 sub-A00008326	FLU1	NKI	NKI	ses-FLU1	Female	65.5	not Hispanic or Latino	White	28.32166449	Right	High School Diploma	Complete primary	Complete primary					1
